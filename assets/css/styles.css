@@ -1,0 +1,66 @@
+html, body{
+  height: 100%;
+  width: 100;
+}
+
+.bad{
+  background: url(https://wallpaperaccess.com/full/138728.jpg) no-repeat center center fixed;
+  text-align: center;
+  display: table;
+  position: relative;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  margin: auto;
+  color: whitesmoke;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.profilepic {
+  border-radius: 50%;
+  border: 1px solid rgb(0, 0, 0);
+  display: table-cell;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 12%;
+}
+
+.carousel-item {
+ height: 380px;
+ text-align: center;
+}
+
+#seperator{
+  border-top: 3px solid rgba(0,0,0,.1);
+}
+
+#education{
+    text-align: center;
+}
+
+.edu{
+  background: #f8cf5d;
+  color: rgb(66, 74, 233);
+  text-align: center;
+  margin: 0px auto;
+  padding: 30px;
+  height: 20=5px;
+  width: 55%;
+  max-width: 660px;
+}
+
+#about{
+ text-align: center;
+ padding-bottom: 20px
+}
+
+.project-head{
+  text-align: center;
+}
+#contact{
+  text-align: center;
+  background-image: url(https://papers.co/wallpaper/papers.co-ng41-mountain-snow-dark-blue-winter-sky-star-40-wallpaper.jpg);
+}
+#views{
+  color: white;
+}
